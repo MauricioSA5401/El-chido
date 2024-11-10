@@ -9,7 +9,7 @@ def sierpinski_carpet(ax, x, y, size, depth):
         for i in range(3):
             for j in range(3):
                 if i == 1 and j == 1:
-                    # El cuadrado central se om
+                    # El cuadrado central se o
                     
                     
                     continue
