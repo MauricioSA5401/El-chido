@@ -9,7 +9,8 @@ def sierpinski_carpet(ax, x, y, size, depth):
         for i in range(3):
             for j in range(3):
                 if i == 1 and j == 1:
-                    # El cuadrado central se omi
+                    # El cuadrado central se om
+                    
                     
                     continue
                 sierpinski_carpet(ax, x + i * new_size, y + j * new_size, new_size, depth - 1)
