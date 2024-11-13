@@ -1,4 +1,4 @@
-mensaje = "hola"
+mensaje = "hol"
 mensaje += " Mau"
 siu = " como"
 siuu = " estas"
